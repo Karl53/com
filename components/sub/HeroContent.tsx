@@ -65,14 +65,14 @@ const HeroContent = () => {
   className="relative w-full h-full flex justify-center items-center"
 >
   <Image
-    src="/pp5.png"
+    src="./pp5.png"
     alt="work icons"
     height={450}
     width={400}
     className="absolute top-0 left-0"
   />
   <Image
-    src="/mainIconsdark.svg"
+    src="./mainIconsdark.svg"
     alt="logo"
     width={650}
     height={500}
