@@ -61,7 +61,7 @@ const Encryption = () => {
           preload="false"
           className="w-full h-auto"
           />
-         <source src="./encryption.webm" type="video/webm"/>
+         <source src="./encryption.webm/" type="video/webm"/>
 
       </div>
     </div>
