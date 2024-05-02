@@ -60,7 +60,7 @@ const Encryption = () => {
           autoPlay
           playsInline
           preload="false"
-          src='./encryption.webm'
+          src="./encryption.webm"
           />
 
       </div>
