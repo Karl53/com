@@ -7,7 +7,7 @@ import {
   slideInFromRight,
   slideInFromTop,
 } from "@/utils/motion";
-import { SparklesIcon } from "@heroicons/react/24/solid";
+import { SparklesIcon } from "@heroicons/react/24/solid"; 
 import Image from "next/image";
 
 const HeroContent = () => {
@@ -48,8 +48,7 @@ const HeroContent = () => {
         >
           Je suis BOUBALA NDIAYE Karl Evans developpeur d&apos;application web et mobile
           formé à l&apos;institut Nationnal de la Poste de Technologie de l&apos;Information et de la Communication 
-          diplomé en licence 3 en Genie logiciel née à Port gentil ayant eu un Baccalaureat Technologique en electronique 
-          je me rend disponible pour realiser tous vos projets et meme pour integrer un equipe dynamique pour realiser des projets,
+          diplomé en Genie logiciel.
 .
         </motion.p>
         <motion.a
