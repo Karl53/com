@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Je suis BOUBALA NDIAYE Karl Evans developpeur d&apos;application web et mobile
+          Je suis BOUBALA Karl Evans developpeur d&apos;application web et mobile
           formé à l&apos;institut Nationnal de la Poste de Technologie de l&apos;Information et de la Communication 
           diplomé en Genie logiciel.
 .
